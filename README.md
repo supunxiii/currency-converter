@@ -2,7 +2,7 @@
 
 This is a simple currency converter built as a Flutter application. The app converts USD to LKR using a fixed exchange rate and showcases a clean, minimal interface built with Flutter's Material components and a stateful widget. It is intended as a beginner-friendly project for learning input handling, state updates, and basic layout structure in Flutter.
 
-![Flutter (stable)](https://img.shields.io/badge/Flutter-stable%20%28796c8ef79279f9c774545b3771238c3098dbefab%29-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Flutter (stable, 796c8ef)](https://img.shields.io/badge/Flutter-stable%20%28796c8ef79279f9c774545b3771238c3098dbefab%29-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Dart SDK >=3.0.5 <4.0.0](https://img.shields.io/badge/Dart%20SDK-3.0.5%2B-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Gradle 7.5](https://img.shields.io/badge/Gradle-7.5-02303A?style=flat-square&logo=gradle&logoColor=white)
 ![Android Gradle Plugin 7.3.0](https://img.shields.io/badge/Android%20Gradle%20Plugin-7.3.0-3DDC84?style=flat-square&logo=android&logoColor=white)
